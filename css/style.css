@@ -1,0 +1,24 @@
+header {
+    padding: 10px;
+    background-color: #e3e3e3;
+}
+header a {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #e3e3e3;
+    text-decoration: none;
+    color: #000;
+    transition: .3s;
+}
+header a:hover,
+header a:active {
+    color: #fff;
+    background-color: #000;
+    transition: .3s;
+}
+h1 {
+    text-transform: uppercase;
+    color: rgb(61, 85, 112);
+    border-bottom: 1px solid #d5d5d5;
+}
